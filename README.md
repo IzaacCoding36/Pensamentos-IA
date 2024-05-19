@@ -1,2 +1,3 @@
 # Pensamentos-IA
-Esse repositório foi criado para publicar meu projeto para a Alura que traz debates e perspectivas sobre a Inteligência Artificial
+
+O futuro já é presente. Aqui você pode ter algumas perspectivas e opiniões sobre a grande inovação tecnológica que vem mudando o mundo: A Inteligência Artificial.
