@@ -415,10 +415,6 @@ button:focus-visible {
     background-image: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
 }
 
-[data-theme="light"] .theme-icon::before {
-    content: '☀️';
-}
-
 /* Default dark theme icon */
 .theme-icon::before {
     content: '🌙';
